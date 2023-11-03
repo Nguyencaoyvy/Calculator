@@ -92,7 +92,7 @@
             this.btCong.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btCong.Location = new System.Drawing.Point(402, 291);
             this.btCong.Name = "btCong";
-            this.btCong.Size = new System.Drawing.Size(111, 46);
+            this.btCong.Size = new System.Drawing.Size(93, 46);
             this.btCong.TabIndex = 3;
             this.btCong.Text = "Cộng";
             this.btCong.UseVisualStyleBackColor = false;
@@ -104,7 +104,7 @@
             this.btTru.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btTru.Location = new System.Drawing.Point(246, 291);
             this.btTru.Name = "btTru";
-            this.btTru.Size = new System.Drawing.Size(111, 46);
+            this.btTru.Size = new System.Drawing.Size(90, 46);
             this.btTru.TabIndex = 3;
             this.btTru.Text = "Trừ";
             this.btTru.UseVisualStyleBackColor = false;
